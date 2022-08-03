@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alecxismarie
-- 👀 I’m interested in ...informative books, currently reading "It ends with us" :)
+- 👀 I’m interested in ...informative books, currently reading "Atomic Habits" :)
 - 🌱 I’m currently learning ...Web Development course in Udemy.
 - 💞️ I’m looking to collaborate on ...anything?
 - 📫 How to reach me ...email me, alexismarie01@yahoo.com
