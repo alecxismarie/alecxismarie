@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alecxismarie
-- 👀 I’m interested in ...informative books, currently reading "Tuesdays with Morrie" :)
+- 👀 I’m interested in ...informative books, currently reading "It Starts With Us" :)
 - 🌱 I’m currently learning ...Web Development course in Udemy.
 - 💞️ I’m looking to collaborate on ...anything?
 - 📫 How to reach me ...email me, alexismarie01@yahoo.com
