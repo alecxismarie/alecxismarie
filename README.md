@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...anything. 
 - 🌱 I’m currently learning ...React.
 - 💞️ I’m looking to collaborate on ...anything?
-- 📫 How to reach me ...email me, alexismarie01@yahoo.com
+- 📫 How to reach me ...email me, alexis@lexora.ltd
 
 <!---
 alecxismarie/alecxismarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
