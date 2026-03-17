@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @alecxismarie
-- 👀 I’m interested in ...anything. 
-- 🌱 I’m currently learning ...React.
-- 💞️ I’m looking to collaborate on ...anything?
-- 📫 How to reach me ...email me, alexis@lexora.ltd
+if you want to know more about me :) https://alexismarie.pages.dev/
 
 <!---
 alecxismarie/alecxismarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
